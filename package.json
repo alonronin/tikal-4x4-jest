@@ -1,0 +1,18 @@
+{
+  "name": "tikal-4x4-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "User.js",
+  "dependencies": {
+    "jest": "^20.0.4",
+    "mockingoose": "^2.2.6",
+    "mongoose": "^4.11.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
